@@ -70,7 +70,7 @@ header{
 background: linear-gradient(to bottom, rgb(1, 1, 14), #041f1d);
 border-radius: 1%;
 width:;
-margin: 40px;
+margin: 10px;
 padding-bottom: 5%;
 }
 
@@ -386,7 +386,7 @@ margin-top: 100px
 
 
   body{
-    background: linear-gradient(to left,  rgb(5, 119, 71), #034641);
+    background color: white;
  margin: 0%;
 
   }
@@ -422,7 +422,7 @@ margin-top: 100px
 background: linear-gradient(to left,  rgb(2, 2, 24), #041f1d);
 padding: 10px;
 padding-bottom: 4rem;
-margin: 40px;
+margin: 10px;
 border-radius: 10px;
 }
  
@@ -444,13 +444,11 @@ border-color:  rgba(88, 87, 87, 0.603);
  }
 
  .background {
-
-  background: linear-gradient(to left,  rgb(2, 2, 24), #041f1d);
- padding: 10px;
+background: linear-gradient(to left,  rgb(2, 2, 24), #041f1d);
+padding: 10px;
 padding-bottom: 4rem;
-
-  margin: 40px;
-  border-radius: 10px;
+margin: 10px;
+border-radius: 10px;
   
  
  }
@@ -567,25 +565,14 @@ align-items: center;
   background-color:white;
   width: 100px;
   height: 100px;
-  
- 
-
- 
+  }
 
 
-}
-
-
-
-
-
-span{
+span {
  color:#0a90df ;
   font-family: Times New Roman;
- 
-}
+ }
   
-
 
 .icones-sociais {
 display: flex;
@@ -616,7 +603,6 @@ font-size: 13px;
 .whatsapp-link {
   position: fixed;
   bottom: 50px; 
-
   width: 50px;
   height: 50px;
   right: 40px;
@@ -630,11 +616,10 @@ font-size: 13px;
 border-style:solid;
 border-width: thin;
 
-
-
 }
-  .fa-brands {
-    margin-top: 14px;
+  
+.fa-brands {
+  margin-top: 14px;
 
   }
 
